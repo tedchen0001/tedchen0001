@@ -2,7 +2,6 @@
 
 - 🔭 I’m an IT Engineer.
 - 🌱 I'm currently preparing for the OSCP exam and learning English.
-- 💬 If my notes offended you, that was not my intention. Please let me know.
 
 <!--
 **tedchen0001/tedchen0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
