@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m an IT Engineer.
+- 🔭 I'm a .NET developer.
 - 🌱 I'm currently preparing for the OSCP exam and learning English.
 
 <!--
