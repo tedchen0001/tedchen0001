@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I'm a .NET developer.
-- 🌱 Passed the OSCP exam in July 2023.
+- 🌱 OSCP certified.
 
 <!--
 **tedchen0001/tedchen0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
