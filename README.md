@@ -2,6 +2,7 @@
 
 - 🔭 I'm a .NET developer.
 - 🌱 OSCP certified.
+- ⚡ I'm preparing for the OSWE certification.
 
 <!--
 **tedchen0001/tedchen0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
