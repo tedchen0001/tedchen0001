@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 - 🔭 I'm a .NET developer.
-- 🌱 OSCP OSWE certified.
-- ⚡ I'm preparing for the OSEP certification.
+- 🏆 **Certifications**:
+  - **OSWE** (Web Expert) - *Advanced Source Code Review* ✅
+  - **OSCP** (Penetration Testing) ✅
+- ⚡ **Next Goal**: **OSEP** (Evasion Techniques) 🔄 -> **OSCE3** in 2026
+
 
 <!--
 **tedchen0001/tedchen0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
