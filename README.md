@@ -4,7 +4,7 @@
 - 🏆 **Certifications**:
   - **OSWE** (Web Expert) - *Advanced Source Code Review* ✅
   - **OSCP** (Penetration Testing) ✅
-- ⚡ **Next Goal**: **OSEP** (Evasion Techniques) 🔄 -> **OSCE3** in 2026
+- ⚡ **Next Goal**: **OSEP** (Evasion Techniques) 🔄 -> **OSCE³** in 2026
 
 
 <!--
